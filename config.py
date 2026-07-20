@@ -12,7 +12,7 @@ PRICE_LIMIT = 30
 #   $env:GMAIL_APP_PASSWORD="your-16-char-app-password"
 #   $env:GMAIL_RECEIVER="recipient@gmail.com"
 EMAIL = os.getenv("supremekingzh@gmail.com", "")
-PASSWORD = os.getenv("Pugazh123@#", "")
+PASSWORD = os.getenv("dxjo awxz isjy mxvp", "")
 RECEIVER = os.getenv("may28avph@gmail.com", "")
 
 SMTP_SERVER = "smtp.gmail.com"
